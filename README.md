@@ -7,9 +7,9 @@ Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will 
 
 Screenshots of the Project:
   
-  1. ![Screenshot](tictactoegame/screenshots/s1.png)
-  ![Screenshot](screenshots/s1.png)
-
+  1. 
+  ![Screenshot](tictactoegame/screenshots/s1.png)
+  
   2. 
-  ![Screenshot](screenshots/s2.png)
+   ![Screenshot](tictactoegame/screenshots/s2.png)
   
